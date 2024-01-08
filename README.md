@@ -1,6 +1,6 @@
 # Lead Tracker App
 
-This is a lead tracker Chrome extension that support users sourcing potential leads by saving tab URLs or capturing inputs to local storage.
+This is a lead tracker Chrome extension that supports users sourcing potential leads by saving URLs to local storage.
 
 ![Lead Tracker Pic](/lead%20tracker.jpg)
 
@@ -8,7 +8,7 @@ This is a lead tracker Chrome extension that support users sourcing potential le
 
 ### Highlights
 
-JavaScript, Local Storage
+JavaScript, local storage, Chrome Web Store.
 
 ![Mengyi Cartoon Pic](/Live,%20Love,%20Learn.png)
 
